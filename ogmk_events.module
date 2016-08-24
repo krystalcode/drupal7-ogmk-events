@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Commerce Marketplace Events feature.
+ */
+
+include_once 'ogmk_events.features.inc';
